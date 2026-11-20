@@ -6,11 +6,11 @@
 <p align="justify">01.4)**HTML: It Is Not A Programming Language , But It Is A Markup Language...</p>
 <p align="justify">01.5)**HTML: It Has More Than One Versions Like HTML V3 , HTML V4 , And Finally HTML V5...</p>
 
-<table width="50%" align="center">
+<table align="center">
   <tr>
-    <td><img width="100%" src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/IntroductionToHTMLImages/BuildingHTMLV4VSBuildingHTMLV5.png" /></td>
+    <td><img width="400" height="400" src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/IntroductionToHTMLImages/BuildingHTMLV4VSBuildingHTMLV5.png" /></td>
   </tr>
   <tr>
-    <img width="100%" src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/IntroductionToHTMLImages/HTMLV4VSHTMLV5.jpeg" />
+    <img width="400" height = "400" src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/IntroductionToHTMLImages/HTMLV4VSHTMLV5.jpeg" />
   </tr>
 </table>
