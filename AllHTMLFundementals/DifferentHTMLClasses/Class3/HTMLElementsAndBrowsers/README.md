@@ -19,7 +19,7 @@
       <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLElementsAndBrowsersImages/SEO.png" width="400" height="300" alt="Search Engine Optimization Image" />
     </td>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLElementsAndBrowsersImages/SEOImage.jpeg" width="400" height="20" alt="Search Engine Optimization Image" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLElementsAndBrowsersImages/SEOImage.jpeg" width="400" height="250" alt="Search Engine Optimization Image" />
     </td>
   </tr>
 </table>
