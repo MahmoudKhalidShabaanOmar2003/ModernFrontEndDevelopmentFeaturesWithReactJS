@@ -75,3 +75,13 @@
     </td>
   </tr>
 </table>
+
+--------------------------------------------------------------------------------------
+
+>[!Tip]
+> <p align="justify">Using Title In Your Own HTML Document File Makes Your Own HTML Document (Own Web Page) Appears In The Frist Searching Results In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC...</p>
+
+----------------------------------------------------------------------------------------
+
+> [!Important]
+> <p align="center">Body Is The Visible Part Of Your Own HTML Document (Own Web Page) That Contains Different Contents That Appears For Different Users Of Your Own HTML Document (Own Web Page)...</p>
