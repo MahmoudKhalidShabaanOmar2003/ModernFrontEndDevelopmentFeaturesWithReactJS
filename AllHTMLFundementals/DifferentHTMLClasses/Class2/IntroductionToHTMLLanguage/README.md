@@ -11,6 +11,8 @@
     <td><img width="400" height="400" src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/IntroductionToHTMLImages/BuildingHTMLV4VSBuildingHTMLV5.png" /></td>
   </tr>
   <tr>
-    <img width="400" height = "400" src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/IntroductionToHTMLImages/HTMLV4VSHTMLV5.jpeg" />
+    <td>
+        <img width="400" height = "400" src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/IntroductionToHTMLImages/HTMLV4VSHTMLV5.jpeg" />
+    </td>
   </tr>
 </table>
