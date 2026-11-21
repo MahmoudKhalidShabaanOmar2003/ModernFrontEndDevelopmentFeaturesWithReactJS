@@ -12,13 +12,13 @@
   <table align="center">
     <tr>
       <td>
-        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV4%20(3).png" width="400" />
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV4%20(3).png" width="400" height="600" />
       </td>
       <td>
-        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV4%20(2).png" width="400" />
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV4%20(2).png" width="400" height="600"/>
       </td>
       <td>
-        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV4%20(1).png" width="400" />
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV4%20(1).png" width="400" height="600"/>
       </td>
     </tr>
   </table>
@@ -28,16 +28,17 @@
   <table align="center">
     <tr>
       <td>
-        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV5%20(3).png" width="400" />
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV5%20(3).png" width="400" height="600" />
       </td>
       <td>
-        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV5%20(2).png" width="400" />
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV5%20(2).png" width="400" height="600" />
       </td>
       <td>
-        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV5%20(1).png" width="400" />
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentDoctypeHTMLImages/HTMLDoctypeV5%20(1).png" width="400" height="600" />
       </td>
     </tr>
   </table>
+  
   ---------------------------------------------------------------------------------------------
   
   > [!important]
