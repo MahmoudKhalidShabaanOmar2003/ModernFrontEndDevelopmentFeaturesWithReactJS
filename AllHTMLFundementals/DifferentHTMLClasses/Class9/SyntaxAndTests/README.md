@@ -13,15 +13,11 @@
 --------------------------------------------------------------------------------------------
 
 <table align="center">
-  <tr rowspan="2">
-    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(2).png" /></td>
-  </tr>
   <tr>
-    <td>
+    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(2).png" /></td>
+        <td>
       <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(3).png " />
-    </td>
-    <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(1).png" />
+                <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(1).png" />
     </td>
   </tr>
 </table>
