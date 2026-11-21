@@ -14,10 +14,12 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(2).png" /></td>
+    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(2).png" width="500" /></td>
         <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(3).png " />
-                <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(1).png" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(3).png " width="500" />
+    </td>
+    <td>
+                      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLTestsAndHTMLSyntaxsImages/HTMLSyntaxsAndTests1%20(1).png" width="500" />
     </td>
   </tr>
 </table>
