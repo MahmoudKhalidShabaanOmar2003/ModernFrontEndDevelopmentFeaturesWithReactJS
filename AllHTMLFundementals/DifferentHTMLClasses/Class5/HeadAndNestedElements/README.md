@@ -82,7 +82,18 @@
     - <p align="justify">04.5.6.1)**It Is Mainly Used To Define A Specified Characters Set That Mainly Used For Your Own HTML Document (Own Web Page)...</p>
     
     - <p align="justify">04.5.6.2)**It Does Not Support The Arabic Language , It Only Supports English Language In Your Own HTML Document (Own Web Page)...</p>
-
+    
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HeadAndNestedElementsImages/Charset1%20(2).png" width="400" height="400"/>
+      </td>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HeadAndNestedElementsImages/Charset1%20(1).png" width="400" height="400" />
+      </td>
+    </tr>  
+  </table>
+  
 ------------------------------------------------------------------------------------------------------
 
 - <p align="justify">04.5.7)**&lt;META charset="UTF-8" /&gt;:</p>
@@ -92,6 +103,19 @@
   - <p align="justify">04.5.7.2)**It Supports Both English Language , And Arabic Language In Your Own HTML Document (Own Web Page)...</p>
   
   <p align="center"><img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HeadAndNestedElementsImages/CharSet1.png" /></p>
+
+------------------------------------------------------------------------------------------
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HeadAndNestedElementsImages/Charset1%20(4).png" height="400" width="400" />
+      </td>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HeadAndNestedElementsImages/Charset1%20(3).png" height="400" width="400" />
+      </td>
+    </tr>  
+  </table>
   
 ------------------------------------------------------------------------------------------------------
 
