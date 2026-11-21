@@ -2,17 +2,17 @@
 
 ### 05.1)**There Are Different Types Of The HTML Comments:
 
-  - 05.1.1)**<p align="justify">&lt;!--Single Line Comment...--&gt;: Control (CTRL) + "ظ": It Is Mainly Used To Make A Single Line Comment In Your Own HTML Document (Own Web Page)...</p>
+  - 05.1.1)**<span align="justify">&lt;!--Single Line Comment...--&gt;: Control (CTRL) + "ظ": It Is Mainly Used To Make A Single Line Comment In Your Own HTML Document (Own Web Page)...</span>
 
 ----------------------------------------------------------------------------------------------
 
-  - 05.1.2)**<p align="justify">Multiple Lines Comments...
+  - 05.1.2)**<span align="justify">Multiple Lines Comments...
     &lt;!--
     <br /> Comment Line 1.
     <br /> Comment Line 2.
     <br /> Comment Line 3.
     <br />--&gt;<br />: It Is Mainly Used To Make A Multiple Lines Comments In Your Own HTML Document (Own Web Page)...
-  </p>
+  </span>
 
 --------------------------------------------------------------------------------------------------------
 
