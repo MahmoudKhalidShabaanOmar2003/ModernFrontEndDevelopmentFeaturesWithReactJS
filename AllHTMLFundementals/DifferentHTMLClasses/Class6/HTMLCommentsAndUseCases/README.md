@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------------------------
 
   - 05.1.2)**<span align="justify">
-  <br />Multiple Lines Comments...
+Multiple Lines Comments...
     &lt;!--
     <br /> Comment Line 1.
     <br /> Comment Line 2.
@@ -35,12 +35,12 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/CommentAndUseCasesImages/CommentAndUseCases%20(2).png" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/CommentAndUseCasesImages/CommentAndUseCases%20(2).png" width="400" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/CommentAndUseCasesImages/CommentAndUseCases%20(3).png" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/CommentAndUseCasesImages/CommentAndUseCases%20(3).png" width="400" />
     </td>
   </tr>
 </table>
