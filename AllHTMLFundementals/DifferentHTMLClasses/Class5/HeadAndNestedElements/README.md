@@ -71,5 +71,57 @@
     
 -----------------------------------------------------------------------------------------------
 
+  - <p align="justify">04.5.6)**&lt;META charset="ISO-8859-1" /&gt;:</p>
+
+    - <p align="justify">04.5.6.1)**It Is Mainly Used To Define A Specified Characters Set That Mainly Used For Your Own HTML Document (Own Web Page)...</p>
+    
+    - <p align="justify">04.5.6.2)**It Does Not Support The Arabic Language , It Only Supports English Language In Your Own HTML Document (Own Web Page)...</p>
+
+------------------------------------------------------------------------------------------------------
+
+- <p align="justify">04.5.7)**&lt;META charset="UTF-8" /&gt;:</p>
+
+  - <p align="justify">04.5.7.1)**It Is Mainly Used To Define A Specific Characters Set That Mainly Used For Your Own HTML Document (Own Web Page)....</p>
+
+  - <p align="justify">04.5.7.2)**It Supports Both English Language , And Arabic Language In Your Own HTML Document (Own Web Page)...</p>
+  
+------------------------------------------------------------------------------------------------------
+
+  - <p align="justify">04.5.8)**&ltMETA name="robots" content="follow , index" /&gt;:</p>
+  
+    - <p align="justify">04.5.8.1)**This Meta Is Used To Allow Your Own HTML Document (Own Web Page) To Follow Different Links...</p>
+    
+    - <p align="justify">04.5.8.2)**This Meta Is Used To Make Your Own HTML Document (Own Web Page) To Appear In The Frist Searching Results In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC...</p>
+
+-----------------------------------------------------------------------------------------------
+
 > [!Warning]
 > You Must Know That Different MetaData Does Not Appear For The User Of Your Own HTML Document (Own Web Page)...
+
+-------------------------------------------------------------------------------------------------
+
+> [!important]
+> <p align="justify">&ltMETA /&gt; HTML Tag: It Is A Self-Closing HTML Tag , Void Tag , Or Empty Tag That Does Not Contains Any Content That Appears For Different Users Of Your Own HTML Document (Own Web Page) But It Appears In The View Page Source In Your Own HTML Document (Own Web Page)...</p>
+
+----------------------------------------------------------------------------------------------------
+
+<p align="justify">04.6)**&lt;TITLE&gt;: It Is A Nested HTML Tag , It Is Mainly Used To Make The Title Of Your Own HTML Document (Own Web Page)...&lt;/TITLE&gt;</p>
+
+  - <p align="justify">04.6.1)**It Does Not Appear In Your Own HTML Document (Own Web Page) But It Appears In The Searching Tab In The Top Left In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC...</p>
+
+  - <p align="justify">04.6.2)**It Appears In The Searching Result In Different Browsers Like Google Chrome , Firefox Developer Edition...</p>
+  
+  - <p align="justify">04.6.3)**It Makes Your Own HTML Document (Own Web Page) SEO Friendly (This Means That Your Own HTML Document (Own Web Page) Appears In The Frist Searching Results In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC...</p>
+  
+------------------------------------------------------------------------------------------------------
+
+<p align="justify">04.7)**&lt;STYLE&gt;: It Is A Nested HTML Tag , It Is Mainly Used To Add Different Internal CSS Styling Codes , Or Internal CSS Decorations Codes For Your Own HTML Document (Own Web Page)...&lt;/STYLE&gt;</p>
+
+  - <p align="justify">04.7.1)**Different CSS Styling Codes , Or CSS Decorations Codes Do Not Appear For Your Own HTML Document (Own Web Page)... But It Mainly Used By Different Browsers Like Google Chrome , Firefox Developer Edition But It Is Mainly Used To Make The Styling , Or Decorations Of Your Own HTML Document (Own Web Page)...</p>
+
+--------------------------------------------------------------------------------------------------------
+
+> [!Important]
+> <p align="justify">&lt;STYLE&gt; HTML Tag Uses Only Inside &lt;HEAD&gt; HTML Tag Inside &lt;HTML&gt; In Your Own HTML Document (Own Web Page)...</p>
+
+----------------------------------------------------------------------------------------------------------
