@@ -17,10 +17,10 @@
   </tr>  
   <tr>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/DifferentHeadingLevels%20(1).png" width="400" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/DifferentHeadingLevels%20(1).png" width="400" height="600" />
     </td>
     <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/DifferentHeadingLevels%20(2).png" width="400" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/DifferentHeadingLevels%20(2).png" width="400" height="600" />
     </td>
   </tr>  
 </table>
