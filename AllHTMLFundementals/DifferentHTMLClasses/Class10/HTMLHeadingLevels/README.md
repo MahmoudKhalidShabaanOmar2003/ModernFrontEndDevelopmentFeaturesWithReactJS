@@ -41,6 +41,19 @@
 
 <p align="justify">10.5)**Different HTML Heading Levels From The HTML Language Has A CSS Custom Styling , Or CSS Custom Decoration From The UA Stylesheet (User Agent Stylesheet) From Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC...</p>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/UAStyleSheet%20H(1).png" width="300" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/UAStyleSheet%20H(2).png" width="300" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/UAStyleSheet%20H(3).png" width="300" />
+    </td>
+  </tr>
+</table>
 ---------------------------------------------------------------------------------------------
 
 <p align="justify">10.6)**</p>
