@@ -53,6 +53,17 @@
       <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/UAStyleSheet%20H(3).png" width="300" />
     </td>
   </tr>
+    <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/UAStyleSheet%20H(6).png" width="300" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/UAStyleSheet%20H(4).png" width="300" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLHeadingLevelsImages/UAStyleSheet%20H(5).png" width="300" />
+    </td>
+  </tr>
 </table>
 ---------------------------------------------------------------------------------------------
 
