@@ -14,7 +14,7 @@
 
 -----------------------------------------------------------------------------------------------
 
-<p align="justify">10.3<strong>HTML Attribute:</strong> It Refers To Different Features That Mainly Used In Different HTML Tags From The HTML Language To Distinguish Between Different HTML Tags...</p>
+<p align="justify">10.3)**<strong>HTML Attribute:</strong> It Refers To Different Features That Mainly Used In Different HTML Tags From The HTML Language To Distinguish Between Different HTML Tags...</p>
 
 - <strong align="justify">10.3.1)**There Are Different Types Of The HTML Attributes From The HTML Language Like:</strong>
 
@@ -30,11 +30,11 @@
 
 --------------------------------------------------------------------------------------------
 
-   - <p align="justify">- 10.3.1.2)**Element HTML Attribute: It Refers To Different HTML Attributes That You Can Use Elementary In A Specified HTML Tags From The HTML Language Like SRC , HREF , REL , And More...</p>
+  - <p align="justify">- 10.3.1.2)**Element HTML Attribute: It Refers To Different HTML Attributes That You Can Use Elementary In A Specified HTML Tags From The HTML Language Like SRC , HREF , REL , And More...</p>
    
-      - <p align="justify">- 10.3.1.2.1)**SRC: It Is Elementary HTML Attribute That Mainly Used In A Specified HTML Tags Like &lt;IMG /&gt; , &lt;SCRIPT&gt; To Add The Source Of The Image In The &lt;IMG /&gt; HTML Tag , Or To Add The Source Of The File In &lt;SCRIPT&gt; HTML Tag...</p>
+   - <p align="justify">- 10.3.1.2.1)**SRC: It Is Elementary HTML Attribute That Mainly Used In A Specified HTML Tags Like &lt;IMG /&gt; , &lt;SCRIPT&gt; To Add The Source Of The Image In The &lt;IMG /&gt; HTML Tag , Or To Add The Source Of The File In &lt;SCRIPT&gt; HTML Tag...</p>
       
-     - <p align="justify">- 10.3.1.2.2)**HREF)**: It Is Elementary HTML Attribute That Mainly Used In A Specified HTML Tags From The HTML Language To Add The HyperText Reference Of The File Like If You Want To Add The Full Path Of The Link In The Anchor HTML Tag (&lt;A&gt;) , Or If You Want To Add The Full Path Of The External CSS Styling File , Or External CSS Decoration File While Using &lt;LINK /&gt; HTML Tag...</p>
+   - <p align="justify">- 10.3.1.2.2)**HREF)**: It Is Elementary HTML Attribute That Mainly Used In A Specified HTML Tags From The HTML Language To Add The HyperText Reference Of The File Like If You Want To Add The Full Path Of The Link In The Anchor HTML Tag (&lt;A&gt;) , Or If You Want To Add The Full Path Of The External CSS Styling File , Or External CSS Decoration File While Using &lt;LINK /&gt; HTML Tag...</p>
 
 ----------------------------------------------------------------------------------------------
 
