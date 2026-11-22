@@ -29,12 +29,11 @@
       - <p align="justify">- 10.3.1.1.4)**Hidden: It Is Mainly Used In Any HTML Tags From The HTML Language , It Is Mainly Used To Hidden Any HTML Tag From Your Own HTML Document (Own Web Page) But It Appears When Opening The View Page Source Of Your Own HTML Document (Own Web Page)...</p>
 
 
-
-      - <p align="justify">- 10.3.1.2)**Element HTML Attribute: It Refers To Different HTML Attributes That You Can Use Elementary In A Specified HTML Tags From The HTML Language Like SRC , HREF , REL , And More...</p>
+ - <p align="justify">- 10.3.1.2)**Element HTML Attribute: It Refers To Different HTML Attributes That You Can Use Elementary In A Specified HTML Tags From The HTML Language Like SRC , HREF , REL , And More...</p>
    
-          - <p align="justify">- 10.3.1.2.1)**SRC: It Is Elementary HTML Attribute That Mainly Used In A Specified HTML Tags Like &lt;IMG /&gt; , &lt;SCRIPT&gt; To Add The Source Of The Image In The &lt;IMG /&gt; HTML Tag , Or To Add The Source Of The File In &lt;SCRIPT&gt; HTML Tag...</p>
+     - <p align="justify">- 10.3.1.2.1)**SRC: It Is Elementary HTML Attribute That Mainly Used In A Specified HTML Tags Like &lt;IMG /&gt; , &lt;SCRIPT&gt; To Add The Source Of The Image In The &lt;IMG /&gt; HTML Tag , Or To Add The Source Of The File In &lt;SCRIPT&gt; HTML Tag...</p>
       
-          - <p align="justify">- 10.3.1.2.2)**HREF)**: It Is Elementary HTML Attribute That Mainly Used In A Specified HTML Tags From The HTML Language To Add The HyperText Reference Of The File Like If You Want To Add The Full Path Of The Link In The Anchor HTML Tag (&lt;A&gt;) , Or If You Want To Add The Full Path Of The External CSS Styling File , Or External CSS Decoration File While Using &lt;LINK /&gt; HTML Tag...</p>
+     - <p align="justify">- 10.3.1.2.2)**HREF)**: It Is Elementary HTML Attribute That Mainly Used In A Specified HTML Tags From The HTML Language To Add The HyperText Reference Of The File Like If You Want To Add The Full Path Of The Link In The Anchor HTML Tag (&lt;A&gt;) , Or If You Want To Add The Full Path Of The External CSS Styling File , Or External CSS Decoration File While Using &lt;LINK /&gt; HTML Tag...</p>
 
 ----------------------------------------------------------------------------------------------
 
