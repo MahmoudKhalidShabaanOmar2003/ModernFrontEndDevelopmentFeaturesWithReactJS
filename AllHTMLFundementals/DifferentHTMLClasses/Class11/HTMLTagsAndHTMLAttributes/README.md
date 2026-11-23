@@ -37,3 +37,18 @@
 
 ----------------------------------------------------------------------------------------------
 
+<table align="center">
+      <tr>
+            <td colspan="2">
+                  <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLTagsAndHTMLAttributes/HTMLElementsAndAttributes1%20(1).png" width="700" />
+            </td>
+      </tr>
+      <tr>
+            <td>
+                  <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLTagsAndHTMLAttributes/HTMLElementsAndAttributes1%20(2).png" width="340" />
+            </td>
+            <td>
+                  <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLTagsAndHTMLAttributes/HTMLElementsAndAttributes1%20(3).png" width="340" />
+            </td>
+      </tr>
+</table>
