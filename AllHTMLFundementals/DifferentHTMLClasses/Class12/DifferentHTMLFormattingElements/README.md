@@ -86,3 +86,21 @@
     </td>
   </tr>
 </table>
+
+  - 11.2.3)**&lt;I&gt;: It Displays Inline , And The Font-Style Is Italic...&lt;/I&gt;
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/i%20(3).png" width="400" height="100" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/i%20(1).png" width="400" height="100" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/i%20(2).png" width="400" height="100" />
+    </td>
+  </tr>
+</table>
+
+  - 11.2.4)**&lt;EM&gt;: It Displays Inline , And The The Font-Style Is Italic...
+
