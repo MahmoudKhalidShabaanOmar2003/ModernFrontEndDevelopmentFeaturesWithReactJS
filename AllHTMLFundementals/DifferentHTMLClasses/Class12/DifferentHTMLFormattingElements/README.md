@@ -56,7 +56,7 @@
 -----------------------------------------------------------------------------------------------------------
 <p align="justify">**11.2)**Different HTML Formatting Elements From The HTML Language Has A CSS Custom Styling , Or CSS Custom Decorations From The User Agent Stylesheet (UA Stylesheet) From Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC Like:</p>
 
-  - 11.2.1)**&lt;B&gt;: It Displays Inline , And The Font-Weight Is Bolder;
+  - 11.2.1)**&lt;B&gt;: It Displays Inline , And The Font-Weight Is Bolder...&lt;/B&gt;
 
     <table>
         <tr>
@@ -71,3 +71,18 @@
           </td>
         </tr>      
     </table>
+  - 11.2.2)**&lt;STRONG&gt;: It Displays Inline , And The Font-Weight Is Bolder...&lt;/STRONG&gt;
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/Strong%20(3).png" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/Strong%20(1).png" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/Strong%20(2).png" />
+    </td>
+  </tr>
+</table>
