@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTMLTagsAttributes...</title>
+        <style>
+            .one{
+                color: teal;
+                background-color: tomato;
+            }
+            .two{
+                color: #09c;
+                background-color: #004;
+            }
+        </style>
+    </head>
+    <body>
+        <p class="one" id="one" dir="LTR" lang="AR-EG">Hello EveryOne! , 
+        And Welcome To</p>
+        <p class="two" id="two" dir="RTL" lang="EN-US">Different HTML 
+        Elements And HTML Attributes</p>
+        <p hidden>We Have A Big Sale...</p>
+        <img src="Source Of The Image" alt="Alternative Text Of The Image" />
+        <a href="The Full Path Of The Link..." target="Location Of Opens The 
+        Web Page..." title="Title Of The Link..." />
+        <script>
+            const paragraphOne = document.getElementById("one");
+            console.log(paragraphOne);
+            const paragraphTwo = document.getElementById("two");
+            console.log(paragraphTwo);
+            paragraphOne.addEventListener("click" , () => {
+                paragraphOne.style.color = "#f4f4f4";
+                paragraphOne.style.backgroundColor = "#fe0535";
+            })
+            paragraphTwo.addEventListener("click" , () => {
+                paragraphTwo.style.color = "navy";
+                paragraphTwo.style.backgroundColor = "#f2f2f2";
+            })
+        </script>
+    </body>
+</html>
