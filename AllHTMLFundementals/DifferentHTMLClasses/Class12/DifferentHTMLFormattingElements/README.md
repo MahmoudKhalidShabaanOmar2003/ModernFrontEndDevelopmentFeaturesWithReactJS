@@ -197,3 +197,19 @@
     </td>
   </tr>
 </table>
+
+  - 11.2.10)**&lt;SUP&gt;: It Displays Inline , And The Vertical-Align Is Sup...&lt;/SUP&gt;
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/SUP%20(2).png" width="400" height="100" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/SUP%20(1).png" width="400" height="100" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/SUP%20(3).png" width="400" height="100" />
+    </td>
+  </tr>
+</table>
