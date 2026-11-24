@@ -102,7 +102,7 @@
   </tr>
 </table>
 
-  - 11.2.4)**&lt;EM&gt;: It Displays Inline , And The The Font-Style Is Italic...
+  - 11.2.4)**&lt;EM&gt;: It Displays Inline , And The The Font-Style Is Italic...&lt;/EM&gt;
 
 <table>
   <tr>
@@ -114,6 +114,38 @@
     </td>
     <td>
       <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/EM1%20(3).png" width="400" height="100" />
+    </td>
+  </tr>
+</table>
+
+  - 11.2.5)**&lt;MARK&gt;: It Displays Inline , Background-Color Is Mark , And The Color Is Mark...
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/Mark%20(1).png" width="400" height="100" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/Mark%20(2).png" width="400" height="100" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/Mark%20(3).png" width="400" height="100" />
+    </td>
+  </tr>
+</table>
+
+  - 11.2.6)**&lt;U&gt;: It Displays Inline , And The Text-Decoration Is Inline...&lt;/U&gt;
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/U%20(3).png" width="400" height="100" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/U%20(1).png" width="400" height="100" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/U%20(2).png" width="400" height="100" />
     </td>
   </tr>
 </table>
