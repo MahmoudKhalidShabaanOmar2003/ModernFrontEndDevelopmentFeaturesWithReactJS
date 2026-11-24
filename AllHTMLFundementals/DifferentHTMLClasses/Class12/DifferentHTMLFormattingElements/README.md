@@ -118,7 +118,7 @@
   </tr>
 </table>
 
-  - 11.2.5)**&lt;MARK&gt;: It Displays Inline , Background-Color Is Mark , And The Color Is Mark...
+  - 11.2.5)**&lt;MARK&gt;: It Displays Inline , Background-Color Is Mark , And The Color Is Mark...&lt;/MARK&gt;
 
 <table>
   <tr>
@@ -146,6 +146,22 @@
     </td>
     <td>
       <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/U%20(2).png" width="400" height="100" />
+    </td>
+  </tr>
+</table>
+
+  - 11.2.7)**&lt;SMALL&gt;: It Displays Inline , And The Font-Size Is Small...&lt;/SMALL&gt;
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/1%20(3).png" width="400" height="100" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/1%20(1).png" width="400" height="100" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/1%20(2).png" width="400" height="100" />
     </td>
   </tr>
 </table>
