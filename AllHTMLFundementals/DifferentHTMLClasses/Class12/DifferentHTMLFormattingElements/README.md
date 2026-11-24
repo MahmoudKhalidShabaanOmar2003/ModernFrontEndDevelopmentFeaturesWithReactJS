@@ -229,3 +229,18 @@
     </td>
   </tr>
 </table>
+
+------------------------------------------------------------------------------------------------------
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/DifferentHTMLFormattingElements%20(1).png" width="600" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/DifferentHTMLFormattingElements%20(2).png" width="600" />
+    </td>
+  </tr>
+</table>
