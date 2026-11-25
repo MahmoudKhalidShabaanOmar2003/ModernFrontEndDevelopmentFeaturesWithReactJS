@@ -39,3 +39,18 @@
 - <p align="justify">12.4.4)**&lt;A href=&quot;contactus:(+02) 1062936326&quot; title=&quot;Contact Me&quot; target=&quot;_PARENT&quot;&gt;Contact Me&lt;/A&gt; , This Link Opens In The Parent Window...</p>
 
 - <p align="justify">12.4.5)**&lt;A href=&quot;#mainParagraph&quot; title=&quot;Go To The Main Paragraph&quot; target=&quot;_blank&quot;&gt;Main Paragraph&lt;/A&gt;</p>
+
+-----------------------------------------------------------------------------------------------------------
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/DifferentHTMLLinks1.png" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/DifferentHTMLLinks.png" width="400" />
+    </td>
+  </tr>
+</table>
