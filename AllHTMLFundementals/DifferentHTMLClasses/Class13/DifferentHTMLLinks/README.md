@@ -13,8 +13,8 @@
   - <p align="justify">12.3.3)**TARGET: It Is An Element HTML Attribute , It Is Mainly Used To Specify Where The Link Document , Wen Page Should Be Opened When The User Clicks The Hyper Link... Like &lt;A TARGET="" &gt;&lt;/A&gt;</p>
 
     - <p align="justify">12.3.3.1)**There Are Different Values Of The Target HTML Attribute Like:</p>
-        <p align="justify">- 12.3.3.1.1)**&lt;A TARGET="_SELF" &gt;&lt;/A&gt;: It Is Mainly Used To Open The Link In The Same Browser Context (Defulat Tab)...</p> 
-        - <p align="justify">12.3.3.1.2)**&lt;A TARGET="_BLANK" &gt;&lt;/A&gt;: It Is Mainly Used To Open The Link In A New Browsers Context (A New Browser Tab)...</p>
-        - <p align="justify">12.3.3.1.3)**&lt;A TARGET="_PARENT" &gt;&lt;/A&gt;: It Is Mainly Used To Open The Link In The Parent Window...</p>
-        - <p align=justify">12.3.3.1.4)**&lt;A TARGET="_TOP" &gt;&lt;/A&gt;: It Is Mainly Used To Open The Link In The Full Browsers Window...</p>
+      - <p align="justify">12.3.3.1.1)**&lt;A TARGET="_SELF" &gt;&lt;/A&gt;: It Is Mainly Used To Open The Link In The Same Browser Context (Defulat Tab)...</p> 
+      - <p align="justify">12.3.3.1.2)**&lt;A TARGET="_BLANK" &gt;&lt;/A&gt;: It Is Mainly Used To Open The Link In A New Browsers Context (A New Browser Tab)...</p>
+      - <p align="justify">12.3.3.1.3)**&lt;A TARGET="_PARENT" &gt;&lt;/A&gt;: It Is Mainly Used To Open The Link In The Parent Window...</p>
+      - <p align=justify">12.3.3.1.4)**&lt;A TARGET="_TOP" &gt;&lt;/A&gt;: It Is Mainly Used To Open The Link In The Full Browsers Window...</p>
       
