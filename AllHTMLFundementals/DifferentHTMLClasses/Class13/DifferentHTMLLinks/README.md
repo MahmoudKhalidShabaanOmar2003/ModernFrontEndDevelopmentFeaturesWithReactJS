@@ -14,15 +14,15 @@
 
   - <p align="justify">12.3.2)**TITLE: It Is An Element HTML Attribute , It Is Mainly Used As A Tool Tip To Know Different Users Of Your Own HTML Document (Own Web Page) , The Main Purpose Of Using This Link In Your Own HTML Document (Own Web Page)... Like &lt;A TITLE=&quot;It Is Used As A Tool Tip To Know To The Website That Go To Like (Go To Facebook)&quot;&gt;&lt;/A&gt;...</p>
   
-    - <p align="center"><strong>**&lt;A title="Go To Facebook"&gt;: </strong>&nbsp;<img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(1).png" width="300" /></p>
+    - <p align="justify"><strong>**&lt;A title="Go To Facebook"&gt;: </strong>&nbsp;<img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(1).png" width="100" height="100" /></p>
 
-    - <p align="center"><img src="" width="300" /></p>
+    - <p align="justify"><img src="" width="300" /></p>
 
-    - <p align="center"><img src="" width="300" /></p>
+    - <p align="justify"><img src="" width="300" /></p>
 
-    - <p align="center"><img src="" width="300" /></p>
+    - <p align="justify"><img src="" width="300" /></p>
 
-    - <p align="center"><img src="" width="300" /></p>
+    - <p align="justify"><img src="" width="300" /></p>
 
   - <p align="justify">12.3.3)**TARGET: It Is An Element HTML Attribute , It Is Mainly Used To Specify Where The Link Document , Wen Page Should Be Opened When The User Clicks The Hyper Link... Like &lt;A TARGET="" &gt;&lt;/A&gt;</p>
 
