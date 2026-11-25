@@ -30,5 +30,12 @@
 
 <p align="justify"><strong>12.4)**There Are Different Ways Of The Link In Your Own HTML Document Own Web Page Like:</strong></p>
 
-- <p align="justify">12.4.1)**&lt;A href=&quot;https://www.facebook.com&quot; title=&quot;Go To Facebook&quot; target=&quot;_SELF&quot;&gt;Facebook&lt;/A&gt; , This Link Open In The Same Browser Context (Default)...</p>
-  
+- <p align="justify">12.4.1)**&lt;A href=&quot;https://www.facebook.com&quot; title=&quot;Go To Facebook&quot; target=&quot;_SELF&quot;&gt;Facebook&lt;/A&gt; , This Link Opens In The Same Browser Context (Default)...</p>
+
+- <p align="justify">12.4.2)**&lt;A href=&quot;https://www.google.com&quot; title=&quot;Go To Google&quot; target=&quot;_BLANK&quot;&gt;Google&lt;/A&gt; , This Link Opens In A New Browser Context (New Tab)...</p>
+
+- <p align="justify">12.4.3)**&lt;A href=&quot;mailto:mksomar200@gmail.com&quot; title=&quot;Mail Me&quot; target=&quot;_TOP&quot;Mail Me&lt;/A&gt; , This Link Opens In The Top Browser Window...</p>
+
+- <p align="justify">12.4.4)**&lt;A href=&quot;contactus:(+02) 1062936326&quot; title=&quot;Contact Me&quot; target=&quot;_PARENT&quot;&gt;Contact Me&lt;/A&gt; , This Link Opens In The Parent Window...</p>
+
+- <p align="justify">12.4.5)**&lt;A href=&quot;#mainParagraph&quot; title=&quot;Go To The Main Paragraph&quot; target=&quot;_blank&quot;&gt;Main Paragraph&lt;/A&gt;</p>
