@@ -17,7 +17,7 @@
     <table>
       <tr>
         <td><strong>**&lt;A title="Go To Facebook"&gt;: </strong></td>
-        <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(1).png" width="150" height="100" /></</td>
+        <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(1).png" width="200" /></</td>
       </tr>
     </table>
 
@@ -25,7 +25,7 @@
      <tr>
           <td><strong>**&lt;A title="Go To Google"&gt;</td>
       <td>
-        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(2).png" width="150" height="100" />
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(2).png" width="200" />
       </td>
      </tr>
     </table>
@@ -34,7 +34,7 @@
     <tr>
             <td><strong>&lt;A title="Go To Mail"&gt;</strong></td>
       <td>
-        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(1).png" width="150" height="100" />
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(1).png" width="200" />
       </td>
     </tr>
     </table>
@@ -43,7 +43,7 @@
       <tr>
         <td><strong>&lt;A title="Go To Contact Us"&gt;</strong></td>
       <td>
-        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(1).png" width="150" height="100" />
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(1).png" width="200" />
       </td>
       </tr>
     </table>
@@ -52,7 +52,7 @@
       <tr>
         <td><strong>&lt;A title="Go To Main Paragraph"&gt;</strong></td>
         <td>
-          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(5).png" width="150" height="100" />
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/ToolTip%20(5).png" width="200"  />
         </td>
       </tr>
     </table>
