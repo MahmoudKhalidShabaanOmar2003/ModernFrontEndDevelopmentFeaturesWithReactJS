@@ -6,6 +6,19 @@
 
   - <p align="justify">11.1.1)**&lt;B&gt;: , It Is A Nested HTML Tag , It Refers To A Bold Text Without Any Importance Text...&lt;/B&gt;</p>
   
+    - Example For &lt;B&gt; HTML Tag Is Mainly Used To Make A Head Without Using Any Heading Tag...
+        - &lt;B&gt;Historic Book...&lt;/B&gt;...
+        <table>
+          <tr>
+            <td>
+              <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/BO%20(1).png" width="200" />
+            </td>
+            <td>
+              <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/BO%20(2).png" width="200" />
+            </td>
+          </tr>
+        </table>
+
   - <p align="justify">11.1.2)**&lt;STRONG&gt;: It Is A Nested HTML Tag , It Refers To A Strong Bold Text With Importance Text...&lt;/STRONG&gt;</p>
 
 > [!Important]
