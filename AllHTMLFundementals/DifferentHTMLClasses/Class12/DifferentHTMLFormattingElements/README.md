@@ -21,6 +21,20 @@
 
   - <p align="justify">11.1.2)**&lt;STRONG&gt;: It Is A Nested HTML Tag , It Refers To A Strong Bold Text With Importance Text...&lt;/STRONG&gt;</p>
 
+    - Example For &lt;STRONG&gt; HTML Tag Is Mainly Used In The Heading Without Using Any Heading Levels...
+
+      - &lt;STRONG&gt;Historic Book...&lt;/&gt;...
+
+      <table>
+        <tr>
+          <td>
+            <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/ST%20(1).png" width="200" />
+          </td>
+          <td>
+            <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/ST%20(2).png" width="200" />
+          </td>
+        </tr>
+      </table>
 > [!Important]
 > <p align="justify">**The Main Difference Between &lt;B&gt; , And &lt;STRONG&gt; Is &lt;B&gt; Is Only Used For A Bold Text Without Any Importance , And &lt;STRONG&gt; Is Only Used For A Bold Text With Importance , For Example , If You Want To Buy A Air Condition From Amazon Egypt , And You Find The Product Name Is A Bold Text , Then You Must Use &lt;B&gt; HTML Tag , Because It Is Not Importance Text , If You Want To Get A Book From Online British Book Store , And You Find A Notice That You Must Not Buy This Book , Because This Book Is Not Exporting To Egypt , This Notice Should Put Inside &lt;STRONG&gt; , Because It Is Important Text...</p>
       
