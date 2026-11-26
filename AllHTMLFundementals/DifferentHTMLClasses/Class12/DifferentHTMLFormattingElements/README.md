@@ -6,7 +6,7 @@
 
   - <p align="justify">11.1.1)**&lt;B&gt;: , It Is A Nested HTML Tag , It Refers To A Bold Text Without Any Importance Text...&lt;/B&gt;</p>
   
-    - Example For &lt;B&gt; HTML Tag Is Mainly Used To Make A Head Without Using Any Heading Tag...
+    - <p align="justify">Example For &lt;B&gt; HTML Tag Is Mainly Used To Make A Head Without Using Any Heading Tag...</p>
         - &lt;B&gt;Historic Book...&lt;/B&gt;...
         <table>
           <tr>
@@ -21,7 +21,7 @@
 
   - <p align="justify">11.1.2)**&lt;STRONG&gt;: It Is A Nested HTML Tag , It Refers To A Strong Bold Text With Importance Text...&lt;/STRONG&gt;</p>
 
-    - Example For &lt;STRONG&gt; HTML Tag Is Mainly Used In The Heading Without Using Any Heading Levels...
+    - <p align="justify">Example For &lt;STRONG&gt; HTML Tag Is Mainly Used In The Heading Without Using Any Heading Levels...</p>
 
       - &lt;STRONG&gt;Historic Book...&lt;/&gt;...
 
@@ -39,13 +39,42 @@
 > <p align="justify">**The Main Difference Between &lt;B&gt; , And &lt;STRONG&gt; Is &lt;B&gt; Is Only Used For A Bold Text Without Any Importance , And &lt;STRONG&gt; Is Only Used For A Bold Text With Importance , For Example , If You Want To Buy A Air Condition From Amazon Egypt , And You Find The Product Name Is A Bold Text , Then You Must Use &lt;B&gt; HTML Tag , Because It Is Not Importance Text , If You Want To Get A Book From Online British Book Store , And You Find A Notice That You Must Not Buy This Book , Because This Book Is Not Exporting To Egypt , This Notice Should Put Inside &lt;STRONG&gt; , Because It Is Important Text...</p>
       
   - <p align="justify">11.1.3)**&lt;I&gt;: It Is A Nested HTML Tag , It Refers To An Italic Text Without Any Importance Text...&lt;/I&gt;</p>
+    
+    - <p align="justify">Example For &lt;I&gt; HTML Tag , It Is Mainly Used In The Wisdom...</p>
+
+    <table>
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/IT1%20(1).png" width="200" />
+        </td>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/IT1%20(2).png" width="200" />
+        </td>
+      </tr>
+    </table>
   
   - <p align="justify">11.1.4)**&lt;EM&gt;: It Is A Nested HTML Tag , It Refers To An Emphasiszed Text With Importance Text...&lt;/EM&gt;
+    
+    - <p align="justify">Example For &lt;EM&gt; HTML Tag Is Mainly Used To Make An Emphasis Text , It Is Mainly Used In The Wisdom Text...</p>
+   
+    <table>
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/EMP%20(1).png" width="200" />
+        </td>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/EMP%20(2).png" width="200" />
+        </td>
+      </tr>
+    </table>
   
 > [!Important]
 > <p align="justify">**The Main Difference Between &lt;I&gt; , And &lt;EM&gt; Is &lt;I&gt; Is Only Used For An Italic Text Without Any Importance , And &lt;EM&gt; Is Only Used For An Emphasised Text With Importance , For Example , If You Want To Buy A Air Condition From Amazon Egypt , And You Find The Product Name Is A Italic Text , Then You Must Use &lt;I&gt; HTML Tag , Because It Is Not Importance Text , If You Want To Get A Book From Online British Book Store , And You Find A Notice That You Must Not Buy This Book , Because This Book Is Not Exporting To Egypt , This Notice Should Put Inside &lt;EM&gt; , Because It Is Important Text...</p>
 
   - <p align="justify">11.1.5)**&lt;MARK&gt;: It Is A Nested HTML Tag , It Refers To A Marked Text , Or Highlighted Text...&lt;/MARK&gt;</p>
+
+    - <p align="justify">Example For &lt;MARK&gt; Is Mainly Used In The Specification The Searching Text In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC</p>
+    
   
 > [!Tip]
 > <p align="justify">It Is Mainly Appearing When Searching For Any Content From Any Website Like Amazon Egypt In Different Browsers Like Google Chrome , Firefox Developer Edition...</p>
