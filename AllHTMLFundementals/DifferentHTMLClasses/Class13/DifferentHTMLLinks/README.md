@@ -115,7 +115,7 @@
   <tr>
     <td align="center">
       <strong>Result Of Clicking Main Paragraph Link...</strong>
-         <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/Result%20(1).png" width="600" />
+         <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/Result%20(2).png" width="600" />
     </td>
   </tr>
 </table>
