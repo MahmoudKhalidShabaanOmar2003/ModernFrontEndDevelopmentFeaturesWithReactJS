@@ -99,23 +99,23 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <strong align="center">Result Of Clicking Facebook Link...</strong>
       <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/Result%20(3).png" width="600" />
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <strong align="center">Result Of Clicking Google Link...</strong>
       <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/Result%20(1).png" width="600" />
     </td>
   </tr>
   <tr>
-    <td align="center">Result Of Clicking Main Paragraph Link...</td>
-    <td>
-      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/Result%20(1).png" width="600" />
+    <td align="center">
+      <strong>Result Of Clicking Main Paragraph Link...</strong>
+         <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/Result%20(1).png" width="600" />
     </td>
   </tr>
 </table>
