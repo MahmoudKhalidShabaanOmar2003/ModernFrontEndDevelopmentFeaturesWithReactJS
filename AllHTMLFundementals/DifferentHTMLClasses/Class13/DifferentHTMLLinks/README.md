@@ -99,7 +99,7 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-<table align="center">
+<table align="center" width="650">
   <tr>
     <td align="center">
       <strong align="center">Result Of Clicking Facebook Link...</strong>
