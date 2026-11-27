@@ -26,10 +26,11 @@
 
   - <p align="justify">13.3.4)**HEIGHT HTML Attribute: It Is A Global HTML Attribute , It Is Mainly Used To Determine The Height Of Image Of Your Own HTML Document (Own Web Page)...</p>
 
-    - <p align="justify">13.3.4.1)**&lt;IMG src="./Images/HTMLIcon.png" alt="HTML Version Five Icon..." height="200" width="200"</p>
+    - <p align="justify">13.3.4.1)**&lt;IMG src="./Images/HTMLIcon.png" alt="HTML Version Five Icon..." height="200" width="200" /&gt;</p>
     
 > [!Warning]
 > <p align="justify">You Must Know That The Height HTML Attribute Inside &lt;IMG /&gt; Is A Unitless...</p>
 
 > [!important]
 > <p align="justify">You Must Not Use The WIDTH HTML Attribute , And HEIGHT HTML Attribute Inside The &lt;IMG /&gt; HTML Tag To Keep The Aspect Ratio Of Different Images In Your Own HTML Document (Own Web Page)...</p>
+
