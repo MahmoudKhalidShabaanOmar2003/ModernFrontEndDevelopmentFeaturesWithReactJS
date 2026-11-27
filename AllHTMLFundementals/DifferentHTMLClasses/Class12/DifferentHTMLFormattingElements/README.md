@@ -99,6 +99,19 @@
   
   - <p align="justify">11.1.6)**&lt;U&gt;: It Is A Nested HTML Tag , It Refers To An Underlined Text...</p>
 
+  - &lt;U&gt;It Is Mainly Used In Different Links...&lt;/U&gt;...
+  - &lt;U&gt;FaceBook...&lt;/U&gt;
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/U%20(5).png" width="200" />
+      </td>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLFormattingElementsImages/U%20(4).png" width="200" />
+      </td>
+    </tr>
+  </table>
 > [!Warning]
 > <p align="justify">**Now , You Must Know That It Is Not Recommended To Use &lt;U&gt; From Different HTML Formatting Elements In Your Own HTML Document (Own Web Page) , Because Any Underline Texts Refers To A Link In Your Own HTML Document (Own Web Page)...</p>
 
