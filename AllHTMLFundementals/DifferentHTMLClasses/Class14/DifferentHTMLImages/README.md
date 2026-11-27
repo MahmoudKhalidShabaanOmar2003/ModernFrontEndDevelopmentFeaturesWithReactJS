@@ -43,6 +43,20 @@
   
     -  <p align="justify">13.3.2.1)**&lt;IMG src="./Images/HTMLIcon.png" alt="HTML Version Five Image..." />: Alternative Text , It Refers To Only Four , Or Five Words As A Small Description For The Image...</p>
 
+    <table>
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG6.png" />
+        </td>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG%20(4).png" width="300" />
+        </td>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG5.png" width="300" />
+        </td>
+      </tr>
+    </table>
+
   - <p align="justify">13.3.3)**WIDTH HTML Attribute: It Is A Global HTML Attribute , It Is Mainly Used To Specify The Width Of The Image Of Your Own HTML Document (Own Web Page)...</p>
   
     - <p align="justify">13.3.3.1)**&lt;IMG src="./Images/HTMLIcon.png" alt="HTML Version Five Icon..." width="200" /></p>
