@@ -65,3 +65,15 @@
         
   - <p align="justify">14.1.2)**&lt;OL&gt;: It Is A Nested HTML Tag , It Is Mainly Used To Make An Ordered List Of Different Items In Your Own HTML Document (Own Web Page)...&lt;/OL&gt;</p>
   
+    - <p align="justify">14.1.2.1)**&lt;LI&gt;: It Is A Nested HTML Tag , It Is Mainly Used To Add Different List Items Inside The Ordered List In Your Own HTML Document (Own Web Page)...</p>
+
+    <table>
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(2).png" width="300" />
+        </td>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(1).png" width="300" />
+        </td>
+      </tr>
+    </table>
