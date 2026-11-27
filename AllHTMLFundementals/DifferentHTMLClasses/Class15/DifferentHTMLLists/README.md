@@ -38,6 +38,17 @@
         </table>
         
         - <p align="justify">14.1.1.2.1.3)**type="square": Then The Type Of The Ordering Is Square...</p>
+
+        <table align="center">
+          <tr>
+            <td>
+              <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/UL%20(2).png" width="300" />
+            </td>
+            <td>
+              <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/UL%20(1).png" width="300" />
+            </td>
+          </tr>
+        </table>
         
         - <p align="justify">14.1.1.2.1.4)**type="none": Then The Type Of The Ordering Is None...</p>
 
