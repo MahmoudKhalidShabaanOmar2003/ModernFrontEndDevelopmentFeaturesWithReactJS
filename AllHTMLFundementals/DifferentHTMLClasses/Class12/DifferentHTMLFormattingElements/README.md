@@ -7,7 +7,9 @@
   - <p align="justify">11.1.1)**&lt;B&gt;: , It Is A Nested HTML Tag , It Refers To A Bold Text Without Any Importance Text...&lt;/B&gt;</p>
   
     - <p align="justify">Example For &lt;B&gt; HTML Tag Is Mainly Used To Make A Head Without Using Any Heading Tag...</p>
+    
         - &lt;B&gt;Historic Book...&lt;/B&gt;...
+
         <table>
           <tr>
             <td>
@@ -23,7 +25,7 @@
 
     - <p align="justify">Example For &lt;STRONG&gt; HTML Tag Is Mainly Used In The Heading Without Using Any Heading Levels...</p>
 
-      - &lt;STRONG&gt;Historic Book...&lt;/&gt;...
+      - &lt;STRONG&gt;Historic Book...&lt;/STRONG&gt;...
 
       <table>
         <tr>
@@ -42,6 +44,8 @@
     
     - <p align="justify">Example For &lt;I&gt; HTML Tag , It Is Mainly Used In The Wisdom...</p>
 
+    - &lt;I&gt;In The Wisdom Text...&lt;/I&gt;
+
     <table>
       <tr>
         <td>
@@ -56,6 +60,8 @@
   - <p align="justify">11.1.4)**&lt;EM&gt;: It Is A Nested HTML Tag , It Refers To An Emphasiszed Text With Importance Text...&lt;/EM&gt;
     
     - <p align="justify">Example For &lt;EM&gt; HTML Tag Is Mainly Used To Make An Emphasis Text , It Is Mainly Used In The Wisdom Text...</p>
+
+    - &lt;EM&gt;In The Wisdom Text...&lt;/EM&gt;
    
     <table>
       <tr>
@@ -74,6 +80,8 @@
   - <p align="justify">11.1.5)**&lt;MARK&gt;: It Is A Nested HTML Tag , It Refers To A Marked Text , Or Highlighted Text...&lt;/MARK&gt;</p>
 
     - <p align="justify">Example For &lt;MARK&gt; Is Mainly Used In The Specification The Searching Text In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC</p>
+
+    - &lt;MARK&gt;In The Searching Text...&lt;/MARK&gt;...
 
     <table>
       <tr>
