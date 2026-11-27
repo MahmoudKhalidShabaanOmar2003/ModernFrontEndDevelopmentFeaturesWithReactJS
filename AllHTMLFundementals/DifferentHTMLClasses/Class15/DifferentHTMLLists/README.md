@@ -6,3 +6,16 @@
     
     - <p align="justify">14.1.1.1)**&lt;LI&gt;: It Is A Nested HTML Tag , It Is Mainly Used To Make A List Item In The UnOrdered List Of Different Items In Your Own HTML Document (Own Web Page)...&lt;/LI&gt;</p>    
     
+    - <p align="justify"><strong>14.1.1.2)**There Are Different Attributes , You Should Use Inside &lt;UL&gt; HTML Tag Like:</strong></p>
+    
+      - <p align="justify">14.1.1.2.1)**TYPE HTML Attribute: It Is One Of Many HTML Elements Attributes That Mainly Used To Determine The Type Of The Ordering Of Different Items In The UnOrdered List , And <strong><br />There Are Different Types Like:</strong></p>
+      
+        - <p align="justify">14.1.1.2.1.1)**type="disc": Then The Type Of The Ordering Is Filled Circle... , It Is The Default Type Of The UnOrdering List Of Different Items....</p>
+
+        - <p align="justify">14.1.1.2.1.2)**type="circle": Then The Type Of The Ordering Is Empty Circle...</p>
+
+        - <p align="justify">14.1.1.2.1.3)**type="square": Then The Type Of The Ordering Is Square...</p>
+
+        - <p align="justify">14.1.1.2.1.4)**type="none": Then The Type Of The Ordering Is None...</p>
+
+        
