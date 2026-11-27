@@ -10,7 +10,20 @@
   - <p align="justify">13.3.1)**SRC HTML Attribute: It Is One Of An Element HTML Attribute , It Refers To The Source Of The Image That You Want To Add In Your Own HTML Document (Own Web Page) , And There Are Different Ways Of Adding The Source Of The Image Like:</p>
 
     - <p align="justify">13.3.1.1)**&lt;IMG src="./Images/HTMLIcom.png" /&gt;: ./ Before The Image Source , If You Want To Get The Image From The Location Beside The &quot;HTML.index&quot; File Inside The Same Folder...</p>
-    
+
+    <table align="center">
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG%20(2).png" width="400" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG%20(1).png" width="400" />
+        </td>
+      </tr>
+    </table>
+      
     - <p align="justify">13.3.1.2)**&lt;IMG src="../Images/CSSIcon.png" /&gt;: ../ Before The Image Source , If You Want To Get One Image From The Location Outside The Folder That Contains &quot;HTML.index&quot;  File , Is Not In The Same Foler... , But The Image In The BackEnd Folder... , Finally &quot;../&quot; Is Mainly Used To Make A One Step Back Only...</p>
 
   - <p align="justify">13.3.2)**ALT HTML Attribute: It Is One Of An Element HTML Attribute , It Refers To The Alternative Text That You Want To Define A Tool Tip For The Image If The Image Does Not Appear In Your Own HTML Document (Own Web Page) , But The Alternative Text Does Not Appear In Your Own HTML Document (Own Web Page) If The Images Appear...</p>
@@ -32,5 +45,7 @@
 > <p align="justify">You Must Know That The Height HTML Attribute Inside &lt;IMG /&gt; Is A Unitless...</p>
 
 > [!important]
-> <p align="justify">You Must Not Use The WIDTH HTML Attribute , And HEIGHT HTML Attribute Inside The &lt;IMG /&gt; HTML Tag To Keep The Aspect Ratio Of Different Images In Your Own HTML Document (Own Web Page)...</p>
+> <p align="justify">You Must Not Use The WIDTH HTML Attribute , And HEIGHT HTML Attribute Inside The &lt;IMG /&gt; HTML Tag At The Same Side To Keep The Aspect Ratio Of Different Images In Your Own HTML Document (Own Web Page)...</p>
 
+> [!Tip]
+> <p align="justify">You Should Know That The <IMG /> HTML Tag Is Not A Inline HTML Element , Or Block Element , But It Is A Replacement Element , Because It Depends On The Height , And Width Of The Image That Want To Use Inside Your Own HTML Document (Own Web Page)...</p>
