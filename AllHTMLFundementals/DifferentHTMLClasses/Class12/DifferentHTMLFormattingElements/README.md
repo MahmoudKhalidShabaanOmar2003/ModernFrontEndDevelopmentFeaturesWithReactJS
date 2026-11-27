@@ -44,7 +44,7 @@
     
     - <p align="justify">Example For &lt;I&gt; HTML Tag , It Is Mainly Used In The Wisdom...</p>
 
-    - &lt;I&gt;In The Wisdom Text...&lt;/I&gt;
+      - &lt;I&gt;In The Wisdom Text...&lt;/I&gt;
 
     <table>
       <tr>
@@ -61,7 +61,7 @@
     
     - <p align="justify">Example For &lt;EM&gt; HTML Tag Is Mainly Used To Make An Emphasis Text , It Is Mainly Used In The Wisdom Text...</p>
 
-    - &lt;EM&gt;In The Wisdom Text...&lt;/EM&gt;
+      - &lt;EM&gt;In The Wisdom Text...&lt;/EM&gt;
    
     <table>
       <tr>
@@ -81,7 +81,7 @@
 
     - <p align="justify">Example For &lt;MARK&gt; Is Mainly Used In The Specification The Searching Text In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC</p>
 
-    - &lt;MARK&gt;In The Searching Text...&lt;/MARK&gt;...
+      - &lt;MARK&gt;In The Searching Text...&lt;/MARK&gt;...
 
     <table>
       <tr>
@@ -99,8 +99,8 @@
   
   - <p align="justify">11.1.6)**&lt;U&gt;: It Is A Nested HTML Tag , It Refers To An Underlined Text...</p>
 
-  - &lt;U&gt;It Is Mainly Used In Different Links...&lt;/U&gt;...
-  - &lt;U&gt;FaceBook...&lt;/U&gt;
+    - &lt;U&gt;It Is Mainly Used In Different Links...&lt;/U&gt;...
+      - &lt;U&gt;FaceBook...&lt;/U&gt;
 
   <table>
     <tr>
