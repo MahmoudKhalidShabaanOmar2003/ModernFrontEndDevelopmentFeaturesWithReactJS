@@ -52,6 +52,14 @@
           <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG%20(4).png" width="300" />
         </td>
       </tr>
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG6.png" width="300" />
+        </td>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG5.png" width="300" />
+        </td>
+      </tr>
     </table>
 
   - <p align="justify">13.3.3)**WIDTH HTML Attribute: It Is A Global HTML Attribute , It Is Mainly Used To Specify The Width Of The Image Of Your Own HTML Document (Own Web Page)...</p>
