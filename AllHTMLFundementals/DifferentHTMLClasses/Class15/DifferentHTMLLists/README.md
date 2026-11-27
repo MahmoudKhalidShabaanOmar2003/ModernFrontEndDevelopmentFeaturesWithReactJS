@@ -67,7 +67,7 @@
   
     - <p align="justify">14.1.2.1)**&lt;LI&gt;: It Is A Nested HTML Tag , It Is Mainly Used To Add Different List Items Inside The Ordered List In Your Own HTML Document (Own Web Page)...</p>
 
-    <table>
+    <table align="center">
       <tr>
         <td>
           <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(2).png" width="300" />
@@ -77,3 +77,33 @@
         </td>
       </tr>
     </table>
+
+  - <p align="justify"><strong>14.1.2.2)**There Are Some Different HTML Attributes That You Can Use Inside &lt;OL&gt; HTML Tag Like:</strong></p>
+  
+    - <p align="justify">14.1.2.2.1)**Reversed: It Is An Element HTML Attribute , It Is Mainly Used Inside Your &lt;OL&gt; To Reverse The Ordering Of Different Items In The Ordered List In Your Own HTML Document (Own Web Page)...</p>
+
+    <table align="center">
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(3).png" width="300" />
+        </td>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(4).png" width="300" />
+        </td>
+      </tr>
+    </table>
+
+    - <p align="justify">14.1.2.2.2)**Type: It Is An Element HTML Attribute , It Is Mainly Used To Define The Type Of The Ordering Of Different List Items Of The Ordered List In Your Own HTML Document (Own Web Page)... , And <br /> <strong>There Are Different Values Of The Type Of The Ordered List Items Like: </strong></p>
+
+      - <p align="justify">14.1.2.2.2.1)**Type="A": It Is Mainly Used To Make The Ordering Of Different List Items As A Capital (UpperCase) English Alphabetic...</p>
+
+      <table align="center">
+        <tr>
+          <td>
+            <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(5).png" width="300" />
+          </td>
+          <td>
+            <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(6).png" width="300" />
+          </td>
+        </tr>
+      </table>
