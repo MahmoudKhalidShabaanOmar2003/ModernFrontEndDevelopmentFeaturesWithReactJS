@@ -72,7 +72,7 @@
           <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG (2).png" width="400" />
         </td>
         <td>
-          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG (1).png" width="480" />
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG (1).png" width="400" />
         </td>
       </tr>
     </table>
@@ -81,8 +81,19 @@
 > <p align="justify">You Must Know That The Width HTML Attribute Inside &lt;IMG /&gt; HTML Tag Is A Unitless...</p>
 
   - <p align="justify">13.3.4)**HEIGHT HTML Attribute: It Is A Global HTML Attribute , It Is Mainly Used To Determine The Height Of Image Of Your Own HTML Document (Own Web Page)...</p>
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG7%20(2).png" height="350" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG7%20(1).png" height="350" />
+    </td>
+  </tr>
+</table>
 
-    - <p align="justify">13.3.4.1)**&lt;IMG src="./Images/HTMLIcon.png" alt="HTML Version Five Icon..." height="200" width="200" /&gt;</p>
+  - <p align="justify">13.3.4.1)**&lt;IMG src="./Images/HTMLIcon.png" alt="HTML Version Five Icon..." height="200" width="200" /&gt;</p>
     
 > [!Warning]
 > <p align="justify">You Must Know That The Height HTML Attribute Inside &lt;IMG /&gt; Is A Unitless...</p>
@@ -91,4 +102,4 @@
 > <p align="justify">You Must Not Use The WIDTH HTML Attribute , And HEIGHT HTML Attribute Inside The &lt;IMG /&gt; HTML Tag At The Same Side To Keep The Aspect Ratio Of Different Images In Your Own HTML Document (Own Web Page)...</p>
 
 > [!Tip]
-> <p align="justify">You Should Know That The <IMG /> HTML Tag Is Not A Inline HTML Element , Or Block Element , But It Is A Replacement Element , Because It Depends On The Height , And Width Of The Image That Want To Use Inside Your Own HTML Document (Own Web Page)...</p>
+> <p align="justify">You Should Know That The <IMG /> HTML Tag Is Not A Inline HTML Element , Or Block Element , But It Is A Replacement Element , Because It Depends On The Height , And Width Of The Image That Want To Use Inside Your Own HTML Document (Own Web Page)... To Determine The Type Of The Image Either Inline HTML Element , Or Block HTML Element...</p>
