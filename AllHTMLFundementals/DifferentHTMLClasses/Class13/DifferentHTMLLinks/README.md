@@ -67,7 +67,26 @@
         - <p align="justify">12.3.3.1.3)**&lt;A TARGET="_PARENT" &gt;&lt;/A&gt;: It Is Mainly Used To Open The Link In The Parent Window...</p>
         
         - <p align=justify">12.3.3.1.4)**&lt;A TARGET="_TOP" &gt;&lt;/A&gt;: It Is Mainly Used To Open The Link In The Full Browsers Window...</p>
-      
+
+----------------------------------------------------------------------------------------------------
+
+<p align="justify">**&lt;A&gt; Has A CSS Custom Styling , Or A CSS Custom Decorations From The User Agent Stylesheet (UA Stylesheet) From Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC...</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/UA1%20(1).png" width="600" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/UA1%20(2).png" width="300" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLLinksImages/UA1%20(3).png" width="300" />
+    </td>
+  </tr>
+</table>
 ----------------------------------------------------------------------------------------------------
 
 <p align="justify"><strong>12.4)**There Are Different Ways Of The Link In Your Own HTML Document Own Web Page Like:</strong></p>
