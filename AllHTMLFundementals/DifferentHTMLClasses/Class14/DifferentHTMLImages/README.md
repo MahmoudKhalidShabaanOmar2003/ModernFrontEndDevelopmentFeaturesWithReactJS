@@ -51,15 +51,23 @@
         <td>
           <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG%20(4).png" width="300" />
         </td>
-        <td>
-          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG5.png" width="300" />
-        </td>
       </tr>
     </table>
 
   - <p align="justify">13.3.3)**WIDTH HTML Attribute: It Is A Global HTML Attribute , It Is Mainly Used To Specify The Width Of The Image Of Your Own HTML Document (Own Web Page)...</p>
   
     - <p align="justify">13.3.3.1)**&lt;IMG src="./Images/HTMLIcon.png" alt="HTML Version Five Icon..." width="200" /></p>
+
+    <table>
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG (2).png" width="400" />
+        </td>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG (1).png" width="480" />
+        </td>
+      </tr>
+    </table>
 
 > [!Warning]
 > <p align="justify">You Must Know That The Width HTML Attribute Inside &lt;IMG /&gt; HTML Tag Is A Unitless...</p>
