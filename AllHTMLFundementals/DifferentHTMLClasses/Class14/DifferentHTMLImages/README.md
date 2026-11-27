@@ -103,3 +103,16 @@
 
 > [!Tip]
 > <p align="justify">You Should Know That The <IMG /> HTML Tag Is Not A Inline HTML Element , Or Block Element , But It Is A Replacement Element , Because It Depends On The Height , And Width Of The Image That Want To Use Inside Your Own HTML Document (Own Web Page)... To Determine The Type Of The Image Either Inline HTML Element , Or Block HTML Element...</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/Images1%20(1).png" width="500" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/Images1%20(2).png" width="500" />
+    </td>
+  </tr>
+</table>
