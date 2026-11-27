@@ -24,7 +24,20 @@
       </tr>
     </table>
       
-    - <p align="justify">13.3.1.2)**&lt;IMG src="../Images/CSSIcon.png" /&gt;: ../ Before The Image Source , If You Want To Get One Image From The Location Outside The Folder That Contains &quot;HTML.index&quot;  File , Is Not In The Same Foler... , But The Image In The BackEnd Folder... , Finally &quot;../&quot; Is Mainly Used To Make A One Step Back Only...</p>
+    - <p align="justify">13.3.1.2)**&lt;IMG src="../Images/CSSIcon.png" /&gt;: ../ Before The Image Source , If You Want To Get One Image From The Location Outside The Folder That Contains &quot;HTML.index&quot;  File , Is Not In The Same Foler... , But The Image In The  Folder... , Finally &quot;../&quot; Is Mainly Used To Make A One Step Back Only...</p>
+
+    <table align="center">
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG%20(3).png" width="400" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/HTMLImages/IMG%20(4).png width="400" />
+        </td>
+      </tr>
+    </table>
 
   - <p align="justify">13.3.2)**ALT HTML Attribute: It Is One Of An Element HTML Attribute , It Refers To The Alternative Text That You Want To Define A Tool Tip For The Image If The Image Does Not Appear In Your Own HTML Document (Own Web Page) , But The Alternative Text Does Not Appear In Your Own HTML Document (Own Web Page) If The Images Appear...</p>
   
