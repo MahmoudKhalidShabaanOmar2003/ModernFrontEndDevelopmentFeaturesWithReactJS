@@ -1,4 +1,4 @@
-# 14)**Different HTML Lists:
+<img width="186" height="166" alt="Screenshot 2026-11-28 055533" src="https://github.com/user-attachments/assets/79377a3e-2dac-4fac-b9f8-8a44527514d7" /># 14)**Different HTML Lists:
 
 ### 14.1)**There Are Different HTML Lists From The HTML Language Like:
 
@@ -108,7 +108,7 @@
         </tr>
       </table>
 
-    - <p align="justify">14.1.2.2.2.2)**Type="a": It Is Mainly Used To Make The Ordering Of Different List Items As a Small (LowerCase) English Characters...</p>
+      - <p align="justify">14.1.2.2.2.2)**Type="a": It Is Mainly Used To Make The Ordering Of Different List Items As a Small (LowerCase) English Characters...</p>
 
     <table align="center">
       <tr>
@@ -120,3 +120,44 @@
         </td>
       </tr>
     </table>
+
+    - <p align="justify">14.1.2.2.2.3)**Type="I": It Is Mainly Used To Make The Ordering Of Different List Items As A Capital (UpperCase) Romanic Characters...</p>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(9).png" width="300" />
+      </td>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(10).png" width="300" />
+      </td>
+    </tr>
+  </table>
+
+   - <p align="justify">14.1.2.2.2.4)**Type="i": It Is Mainly Used To Make The Ordering Of Different List Items As A Small (LowerCase) Characters...</p>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(11).png" width="300" />
+      </td>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(12).png" width="300" />
+      </td>
+    </tr>
+  </table>
+
+  - <p align="justify">14.1.2.2.2.5)**Type="1": It Is Mainly Used To Make The Ordering Of Different List Items As A Numeric Characters , It Is The Default Type Of The Ordering Of The Ordered List Of Different Items...</p>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL.png" width="300" />
+      </td>
+      <td>
+        <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(1).png" width="300" />
+      </td>
+    </tr>
+  </table>
+
+  
