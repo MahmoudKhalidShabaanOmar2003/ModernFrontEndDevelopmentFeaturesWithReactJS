@@ -107,3 +107,16 @@
           </td>
         </tr>
       </table>
+
+    - <p align="justify">14.1.2.2.2.2)**Type="a": It Is Mainly Used To Make The Ordering Of Different List Items As a Small (LowerCase) English Characters...</p>
+
+    <table align="center">
+      <tr>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(7).png" width="300" />
+        </td>
+        <td>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(8).png" width="300" />
+        </td>
+      </tr>
+    </table>
