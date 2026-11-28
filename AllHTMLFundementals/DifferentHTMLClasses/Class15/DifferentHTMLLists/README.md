@@ -120,7 +120,9 @@
         </td>
       </tr>
     </table>
+    
       - <p align="justify">14.1.2.2.2.3)**Type="I": It Is Mainly Used To Make The Ordering Of Different List Items As A Capital (UpperCase) Romanic Characters...</p>
+      
   <table>
     <tr>
       <td>
@@ -131,8 +133,10 @@
       </td>
     </tr>
   </table>
-      - <p align="justify">14.1.2.2.2.4)**Type="i": It Is Mainly Used To Make The Ordering Of Different List Items As A Small (LowerCase) Characters...</p>
-  <table>
+  
+   - <p align="justify">14.1.2.2.2.4)**Type="i": It Is Mainly Used To Make The Ordering Of Different List Items As A Small (LowerCase) Characters...</p>
+    
+  <table align="center">
     <tr>
       <td>
         <img src="https://github.com/MahmoudKhalidShabaanOmar2003/ModernFrontEndDevelopmentFeaturesWithReactJS/blob/main/AllHTMLFundementals/DifferentHTMLImages/DifferentHTMLListsImages/OL%20(11).png" width="300" />
@@ -142,7 +146,9 @@
       </td>
     </tr>
   </table>
-      - <p align="justify">14.1.2.2.2.5)**Type="1": It Is Mainly Used To Make The Ordering Of Different List Items As A Numeric Characters , It Is The Default Type Of The Ordering Of The Ordered List Of Different Items...</p>
+  
+   - <p align="justify">14.1.2.2.2.5)**Type="1": It Is Mainly Used To Make The Ordering Of Different List Items As A Numeric Characters , It Is The Default Type Of The Ordering Of The Ordered List Of Different Items...</p>
+      
   <table align="center">
     <tr>
       <td>
