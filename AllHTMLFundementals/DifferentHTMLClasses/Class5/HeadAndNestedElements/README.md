@@ -7,7 +7,8 @@
 
 --------------------------------------------------------------------
 
-<p align="justify">04.3)**<META />: It Is A Self-Closing Tag , Void Tag , Or Empty Tag , It Is Mainly Used To Add Different MetaData For Your Own HTML Document (Own Web Page) To Know Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC How To Archive , Or Render Your Own HTML Document (Own Web Page) , Different MetaData Does Not Appear For Different Users Of Your Own HTML Document (Own Web Page)...</p>
+<p align="justify">04.3)**&lt;META /&gt;: It Is A Self-Closing Tag , Void Tag , Or Empty Tag , It Is Mainly Used To Add Different MetaData For Your Own HTML Document (Own Web Page) To Know Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC How To Archive , Or Render Your Own HTML Document (Own Web Page) , Different MetaData Does Not Appear For Different Users Of Your Own HTML Document (Own Web Page)...</p>
+
 <p align="justify"><strong>04.4)**There Are Different Types Of HTML Attributes That Should Use Inside &lt;META /&gt; HTML Tag Like:</strong></p>
   
   - <p align="justify">04.4.1)**Name: It Is A Global HTML Attribute , It Is Mainly Used To Add The Name Of The MetaData...</p>
