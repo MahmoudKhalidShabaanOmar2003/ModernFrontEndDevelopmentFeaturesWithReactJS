@@ -95,7 +95,7 @@
 
     - <p align="justify">14.1.2.2.2)**Type: It Is An Element HTML Attribute , It Is Mainly Used To Define The Type Of The Ordering Of Different List Items Of The Ordered List In Your Own HTML Document (Own Web Page)... , And <br /> <strong>There Are Different Values Of The Type Of The Ordered List Items Like: </strong></p>
 
-      - <p align="justify">14.1.2.2.2.1)**Type="A": It Is Mainly Used To Make The Ordering Of Different List Items As A Capital (UpperCase) English Alphabetic...</p>
+    - <p align="justify">14.1.2.2.2.1)**Type="A": It Is Mainly Used To Make The Ordering Of Different List Items As A Capital (UpperCase) English Alphabetic...</p>
 
       <table align="center">
         <tr>
@@ -108,7 +108,7 @@
         </tr>
       </table>
 
-      - <p align="justify">14.1.2.2.2.2)**Type="a": It Is Mainly Used To Make The Ordering Of Different List Items As a Small (LowerCase) English Characters...</p>
+    - <p align="justify">14.1.2.2.2.2)**Type="a": It Is Mainly Used To Make The Ordering Of Different List Items As a Small (LowerCase) English Characters...</p>
 
     <table align="center">
       <tr>
@@ -121,7 +121,7 @@
       </tr>
     </table>
     
-      - <p align="justify">14.1.2.2.2.3)**Type="I": It Is Mainly Used To Make The Ordering Of Different List Items As A Capital (UpperCase) Romanic Characters...</p>
+    - <p align="justify">14.1.2.2.2.3)**Type="I": It Is Mainly Used To Make The Ordering Of Different List Items As A Capital (UpperCase) Romanic Characters...</p>
       
   <table>
     <tr>
